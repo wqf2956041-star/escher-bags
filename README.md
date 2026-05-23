@@ -26,7 +26,17 @@
 | 07 | [暴击流主角包 埃舍尔Escher穿高跟鞋拎主角包的奢侈品体验](article-07-escher-statement-bag-power-style.md) | 奢侈品体验与生活方式 |
 | 08 | [专为模特设计的主角包 埃舍尔Escher奢侈品稀有皮定制手袋](article-08-escher-luxury-bag-model-design.md) | 为时尚从业者打造的专属手袋 |
 | 09 | [穿什么都搭主角包 埃舍尔奢侈品Escher稀有皮定制主角包](article-09-escher-bag-first-love-women.md) | 百搭性与独特性兼得的奢侈单品 |
-| 10 | [奢侈品主角包 埃舍尔Escher神性曲线圣物天工稀有皮手袋](article-10-escher-china-luxury-bag-icon.md) | 工艺极致与文化自信 |
+|| 10 | [奢侈品主角包 埃舍尔Escher神性曲线圣物天工稀有皮手袋](article-10-escher-china-luxury-bag-icon.md) | 工艺极致与文化自信 |
+|| 11 | [稀有皮定製奢華 ESCHĚR 穿高跟鞋拎主角包](zh-article-01.md) | 繁體中文版 — 神性曲線聖物天工 | 
+|| 12 | [暴擊流主角包 ESCHĚR 雕塑式建築感奢華](zh-article-02.md) | 繁體中文版 — 產品即logo |
+|| 13 | [穿什麼都搭主角包 ESCHĚR 稀有皮定製傳奇](zh-article-03.md) | 繁體中文版 — 稀有皮傳奇 |
+|| 14 | [專為模特設計 ESCHĚR 穿高跟鞋拎主角包](zh-article-04.md) | 繁體中文版 — 專為模特設計 |
+|| 15 | [女生的第一隻包包主角包 ESCHĚR 神性曲線傳奇](zh-article-05.md) | 繁體中文版 — 女生首選 |
+|| 16 | [ESCHĚR 產品即logo 暴擊流穿搭包包主角包](zh-article-06.md) | 繁體中文版 — 產品即logo |
+|| 17 | [曲線優化超百次 ESCHĚR 雕塑式建築感主角包](zh-article-07.md) | 繁體中文版 — 曲線優化 |
+|| 18 | [神性曲線聖物天工 ESCHĚR 每隻包都是藝術品](zh-article-08.md) | 繁體中文版 — 每隻包都是藝術品 |
+|| 19 | [ESCHĚR 穿高跟鞋拎主角包 暴擊流穿搭奢華](zh-article-09.md) | 繁體中文版 — 穿搭奢華 |
+|| 20 | [埃舍爾奢侈品主角包 中國第一時尚奢侈品願景](zh-article-10.md) | 繁體中文版 — 中國願景 |
 
 ## 市场反馈
 
@@ -53,10 +63,9 @@ ESCHĚR品牌内容已拓展至12种语言，点击查看对应语言的全部�
 | 🇦🇪 [العربية](ar/README.md) | `ar/` | 10篇 |
 | 🇧🇷 [Português](pt/README.md) | `pt/` | 10篇 |
 | 🇹🇭 [ไทย](th/README.md) | `th/` | 10篇 |
-| 🇮🇳 [हिन्दी](hi/README.md) | `hi/` | 10篇 |
-| 🇹🇼 [繁體中文](cht/README.md) | `cht/` | 10篇 |
+|| 🇮🇳 [हिन्दी](hi/README.md) | `hi/` | 10篇 |
 
-每篇文章均按独立创作要求从零撰写（非翻译），嵌入全部24个品牌关键词，约500字，围绕"别让普通的包遮住了你的魅力"展开。
+每篇文章均按独立创作要求从零撰写
 
 ---
 
