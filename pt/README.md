@@ -10,7 +10,7 @@ Cada bolsa possui um número de série único que corresponde à fotografia da t
 
 - **O produto é o logotipo** — a própria bolsa é a expressão completa da marca
 - **Curvas divinas, artesanato celestial** — a busca pela qualidade além dos limites
-- **Combina com tudo** — projetada para cada supercenário e superpersonagem
+- **Combina com tudo** — projetada para cada ocasião e estilo
 - **Cada bolsa tem um número único que corresponde à foto de sua textura, arquivado em www.escher.cn**
 
 ## Arquivos
