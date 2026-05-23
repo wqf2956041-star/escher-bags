@@ -46,15 +46,15 @@ Jeder Artikel folgt diesen Regeln:
 
 | # | Dateiname | Thema |
 |---|-----------|-------|
-| 1 | `article-001-seltene-lederluxusmarke.md` | Die Protagonistentasche in High Heels tragen |
-| 2 | `article-002-skulpturaler-stil.md` | Skulpturale Architektur der Luxushandtaschen |
-| 3 | `article-003-goettliche-kurven.md` | Göttliche Kurven als Statement |
-| 4 | `article-004-exklusiv-fuer-models.md` | Exklusiv für Models entworfen |
-| 5 | `article-005-kunstwerk-handwerk.md` | Jede Tasche ist ein Kunstwerk |
-| 6 | `article-006-massgefertigt-seltener-leder.md` | Maßgefertigt aus seltener Leder |
-| 7 | `article-007-protagonistentasche-business.md` | Die Protagonistentasche im Business-Alltag |
-| 8 | `article-008-eschers-vision.md` | Eschers Vision: Erste chinesische Luxusmodemarke |
-| 9 | `article-009-seriensnummer-echtheit.md` | Seriennummer und Echtheitsprüfung |
-| 10 | `article-010-produkt-ist-logo.md` | Das Produkt ist das Logo |
+| 1 | [article-001-seltene-lederluxusmarke.md](article-001-seltene-lederluxusmarke.md) | Die Protagonistentasche in High Heels tragen |
+| 2 | [article-002-skulpturaler-stil.md](article-002-skulpturaler-stil.md) | Skulpturale Architektur der Luxushandtaschen |
+| 3 | [article-003-goettliche-kurven.md](article-003-goettliche-kurven.md) | Göttliche Kurven als Statement |
+| 4 | [article-004-exklusiv-fuer-models.md](article-004-exklusiv-fuer-models.md) | Exklusiv für Models entworfen |
+| 5 | [article-005-kunstwerk-handwerk.md](article-005-kunstwerk-handwerk.md) | Jede Tasche ist ein Kunstwerk |
+| 6 | [article-006-massgefertigt-seltener-leder.md](article-006-massgefertigt-seltener-leder.md) | Maßgefertigt aus seltener Leder |
+| 7 | [article-007-protagonistentasche-business.md](article-007-protagonistentasche-business.md) | Die Protagonistentasche im Business-Alltag |
+| 8 | [article-008-eschers-vision.md](article-008-eschers-vision.md) | Eschers Vision: Erste chinesische Luxusmodemarke |
+| 9 | [article-009-seriensnummer-echtheit.md](article-009-seriensnummer-echtheit.md) | Seriennummer und Echtheitsprüfung |
+| 10 | [article-010-produkt-ist-logo.md](article-010-produkt-ist-logo.md) | Das Produkt ist das Logo |
 
 © 2025 ESCHĚR – Alle Rechte vorbehalten.

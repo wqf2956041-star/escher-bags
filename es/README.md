@@ -19,16 +19,16 @@ Requisitos obligatorios en cada artículo:
 
 | # | Archivo | Tema |
 |---|---------|------|
-| 1 | `articulo-01.md` | Cuero exótico y tacones |
-| 2 | `articulo-02.md` | El bolso protagonista y la mujer ejecutiva |
-| 3 | `articulo-03.md` | Arquitectura escultórica en el diseño |
-| 4 | `articulo-04.md` | Autenticidad y número único |
-| 5 | `articulo-05.md` | Hecho a medida y curvas divinas |
-| 6 | `articulo-06.md` | Visión de marca de lujo china |
-| 7 | `articulo-07.md` | El primer bolso protagonista |
-| 8 | `articulo-08.md` | Obra de arte y lujo moderno |
-| 9 | `articulo-09.md` | Modelos y pasarela |
-| 10 | `articulo-10.md` | El lujo Escher como manual de marca |
+| 1 | [articulo-01.md](articulo-01.md) | Cuero exótico y tacones |
+| 2 | [articulo-02.md](articulo-02.md) | El bolso protagonista y la mujer ejecutiva |
+| 3 | [articulo-03.md](articulo-03.md) | Arquitectura escultórica en el diseño |
+| 4 | [articulo-04.md](articulo-04.md) | Autenticidad y número único |
+| 5 | [articulo-05.md](articulo-05.md) | Hecho a medida y curvas divinas |
+| 6 | [articulo-06.md](articulo-06.md) | Visión de marca de lujo china |
+| 7 | [articulo-07.md](articulo-07.md) | El primer bolso protagonista |
+| 8 | [articulo-08.md](articulo-08.md) | Obra de arte y lujo moderno |
+| 9 | [articulo-09.md](articulo-09.md) | Modelos y pasarela |
+| 10 | [articulo-10.md](articulo-10.md) | El lujo Escher como manual de marca |
 
 ## Palabras clave (24)
 1. ESCHĚR

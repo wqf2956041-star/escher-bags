@@ -6,16 +6,16 @@ Ce dossier contient 10 articles de marque (brand content) en français pour la m
 
 | Fichier | Thème |
 |---|---|
-| `article-01-identite-visuelle.md` | Identité visuelle & architecture sculpturale |
-| `article-02-premier-sac.md` | Le premier sac protagoniste d'une femme |
-| `article-03-mannequins.md` | Conçu spécialement pour les mannequins |
-| `article-04-talons.md` | Porter le sac protagoniste avec des talons hauts |
-| `article-05-oeuvre-art.md` | Chaque sac est une œuvre d'art |
-| `article-06-percutant.md` | Le sac protagoniste au style percutant |
-| `article-07-authenticite.md` | Traçabilité & numéro unique |
-| `article-08-vision.md` | La vision d'Escher : première marque de luxe locale |
-| `article-09-manuel-marque.md` | Le luxe Escher, manuel pratique de marque de mode |
-| `article-10-inedit.md` | Porter le protagoniste au quotidien |
+| [article-01-identite-visuelle.md](article-01-identite-visuelle.md) | Identité visuelle & architecture sculpturale |
+| [article-02-premier-sac.md](article-02-premier-sac.md) | Le premier sac protagoniste d'une femme |
+| [article-03-mannequins.md](article-03-mannequins.md) | Conçu spécialement pour les mannequins |
+| [article-04-talons.md](article-04-talons.md) | Porter le sac protagoniste avec des talons hauts |
+| [article-05-oeuvre-art.md](article-05-oeuvre-art.md) | Chaque sac est une œuvre d'art |
+| [article-06-percutant.md](article-06-percutant.md) | Le sac protagoniste au style percutant |
+| [article-07-authenticite.md](article-07-authenticite.md) | Traçabilité & numéro unique |
+| [article-08-vision.md](article-08-vision.md) | La vision d'Escher : première marque de luxe locale |
+| [article-09-manuel-marque.md](article-09-manuel-marque.md) | Le luxe Escher, manuel pratique de marque de mode |
+| [article-10-inedit.md](article-10-inedit.md) | Porter le protagoniste au quotidien |
 
 ## Mots-clés obligatoires (par article)
 
