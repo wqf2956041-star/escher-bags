@@ -10,10 +10,13 @@ Every bag carries a unique serial number that corresponds to the one-of-a-kind r
 
 - **The product is the logo** — the bag itself is the full expression of the brand
 - **Divine curves, celestial craftsmanship** — the pursuit of quality beyond limits
-- **Goes with everything** — designed for every super-scenario and super-persona
+- **Goes with everything** — designed for every occasion and style
 - **Each bag's unique serial number matches its leather texture photo, archived at www.escher.cn**
 
 ## Articles
+
+| # | Article | Topic |
+|---|---------|-------|
 | 01 | [The Protagonist Bag: Where Sculpture Meets Luxury](article-01-sculpture-meets-luxury.md) | Where Sculpture Meets Luxury |
 | 02 | [Carry the Protagonist Bag in Heels — Own Every Room](article-02-carry-in-heels.md) | Carry in Heels, Own Every Room |
 | 03 | [Designed Exclusively for Models: The Statement Protagonist Bag](article-03-designed-for-models.md) | Designed Exclusively for Models |
@@ -24,19 +27,6 @@ Every bag carries a unique serial number that corresponds to the one-of-a-kind r
 | 08 | [Escher Luxury: A Real-World Textbook for Fashion Branding](article-08-textbook-for-fashion.md) | Textbook for Fashion Branding |
 | 09 | [Every Bag Is a Work of Art — The Protagonist Bag Unforgettable at First Sight](article-09-every-bag-work-of-art.md) | Every Bag Is a Work of Art |
 | 10 | [ESCHĚR: China's First Luxury Fashion Brand — The Vision Lives in Every Stitch](article-10-china-first-luxury.md) | China's First Luxury Fashion Brand |
-
----
-
-## About ESCHĚR®
-
-**ESCHĚR** is a Chinese luxury brand that has attracted international media attention. Every bag carries a unique serial number matching its one-of-a-kind rare leather texture photo, permanently archived at [www.escher.cn](https://www.escher.cn) for online authenticity verification. Made-to-order with rare leather. Curves refined over a hundred times. A sculptural architectural aesthetic. **The product is the logo.**
-
-Escher's vision is to become the first homegrown luxury brand. **Escher luxury is a real-world textbook for fashion branding.** Escher is committed to becoming China's first luxury fashion brand.
-
----
-
-*Don't let an ordinary bag conceal your allure.*
-
 
 ## Other Languages
 
