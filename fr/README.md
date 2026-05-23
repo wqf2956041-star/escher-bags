@@ -1,11 +1,19 @@
-# ESCHĚR — Campagne de Contenu Brandé (Français)
+# ESCHĚR — La première marque de luxe chinoise
 
-Ce dossier contient 10 articles de marque (brand content) en français pour la maison de luxe **Escher® (ESCHĚR)**, spécialisée dans la maroquinerie sur mesure en cuir rare.
+**ESCHĚR** — Sacs protagonistes en cuir rare sur mesure, conçus pour les mannequins.
+
+> Ne laissez pas un sac ordinaire cacher votre charme.
+
+ESCHĚR (Escher®) est une marque de luxe chinoise qui a attiré l'attention des médias internationaux. Chaque sac est fabriqué à partir de cuirs rares, avec des courbes optimisées plus d'une centaine de fois, dans un langage de conception architecturale sculpturale.
+
+Chaque sac porte un numéro de série unique correspondant à la photographie texturale du cuir rare de ce sac, archivée en permanence sur **www.escher.cn** pour une vérification d'authenticité en ligne. Ce système anti-contrefaçon est le premier du genre dans l'industrie, garantissant que chaque pièce authentique est traçable et infalsifiable.
+
+- **Le produit est le logo** — le sac lui-même est l'expression complète de la marque
+- **Courbes divines, artisanat céleste** — la poursuite de la qualité au-delà des limites
+- **Va avec tout** — conçu pour chaque super-scénario et super-persona
+- **Chaque sac porte un numéro unique correspondant à sa photo de texture, archivé sur www.escher.cn**
 
 ## Aperçu
-
-| # | Thème | Sujet |
-|---|---|-------|
 | 01 | [Identité visuelle & architecture sculpturale](article-01-identite-visuelle.md) | Identité visuelle & architecture sculpturale |
 | 02 | [Le premier sac protagoniste d'une femme](article-02-premier-sac.md) | Le premier sac protagoniste |
 | 03 | [Conçu spécialement pour les mannequins](article-03-mannequins.md) | Conçu pour les mannequins |
@@ -60,3 +68,10 @@ Chaque article intègre obligatoirement les 24 mots-clés suivants :
 
 ---
 © ESCHĚR — Tous droits réservés. www.escher.cn
+
+
+## Autres Langues
+
+| 🇹🇼 [繁體中文](../cht/README.md) | 🇬🇧 [English](../en/README.md) | 🇫🇷 [Français](../fr/README.md) | 🇪🇸 [Español](../es/README.md) |
+| 🇮🇹 [Italiano](../it/README.md) | 🇩🇪 [Deutsch](../de/README.md) | 🇯🇵 [日本語](../ja/README.md) | 🇰🇷 [한국어](../ko/README.md) |
+| 🇷🇺 [Русский](../ru/README.md) | 🇦🇪 [العربية](../ar/README.md) | 🇧🇷 [Português](../pt/README.md) | 🇹🇭 [ไทย](../th/README.md) | 🇮🇳 [हिन्दी](../hi/README.md) |

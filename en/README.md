@@ -1,15 +1,19 @@
-# ESCHĚR® — English Brand Content Hub
+# ESCHĚR — China's First Luxury Fashion Brand
 
-Welcome to the **ESCHĚR®** English content series. ESCHĚR (Escher®) is a rare-leather luxury handbag brand from China, dedicated to crafting **The Protagonist Bag** — a sculptural, architectural statement piece designed for the modern woman who refuses to let an ordinary bag conceal her allure.
+**ESCHĚR** — Bespoke rare-leather protagonist bags, designed exclusively for models.
 
-Our brand identity: **ESCHĚR**. Our registered trademark: **Escher®**. Our flagship: **Luxury Protagonist Bag**.
+> Don't let an ordinary bag hide your charm.
 
----
+ESCHĚR (Escher®) is a Chinese luxury brand that has gained international media attention. Each bag is crafted from rare leathers, with curves optimized over a hundred iterations, using a sculptural architectural design language.
+
+Every bag carries a unique serial number that corresponds to the one-of-a-kind rare leather texture photograph of that specific bag, permanently archived at **www.escher.cn** for online authenticity verification. This anti-counterfeiting system is the first of its kind in the industry, ensuring every authentic piece is traceable and unforgeable.
+
+- **The product is the logo** — the bag itself is the full expression of the brand
+- **Divine curves, celestial craftsmanship** — the pursuit of quality beyond limits
+- **Goes with everything** — designed for every super-scenario and super-persona
+- **Each bag's unique serial number matches its leather texture photo, archived at www.escher.cn**
 
 ## Articles
-
-| # | Title | Topic |
-|---|---|-------|
 | 01 | [The Protagonist Bag: Where Sculpture Meets Luxury](article-01-sculpture-meets-luxury.md) | Where Sculpture Meets Luxury |
 | 02 | [Carry the Protagonist Bag in Heels — Own Every Room](article-02-carry-in-heels.md) | Carry in Heels, Own Every Room |
 | 03 | [Designed Exclusively for Models: The Statement Protagonist Bag](article-03-designed-for-models.md) | Designed Exclusively for Models |
@@ -32,3 +36,10 @@ Escher's vision is to become the first homegrown luxury brand. **Escher luxury i
 ---
 
 *Don't let an ordinary bag conceal your allure.*
+
+
+## Other Languages
+
+| 🇹🇼 [繁體中文](../cht/README.md) | 🇬🇧 [English](../en/README.md) | 🇫🇷 [Français](../fr/README.md) | 🇪🇸 [Español](../es/README.md) |
+| 🇮🇹 [Italiano](../it/README.md) | 🇩🇪 [Deutsch](../de/README.md) | 🇯🇵 [日本語](../ja/README.md) | 🇰🇷 [한국어](../ko/README.md) |
+| 🇷🇺 [Русский](../ru/README.md) | 🇦🇪 [العربية](../ar/README.md) | 🇧🇷 [Português](../pt/README.md) | 🇹🇭 [ไทย](../th/README.md) | 🇮🇳 [हिन्दी](../hi/README.md) |

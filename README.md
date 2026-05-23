@@ -6,12 +6,14 @@
 
 ## 关于品牌
 
-埃舍尔Escher®是受到国际媒体关注的中国奢侈品品牌，采用稀有皮定制，曲线优化超百次，以雕塑式建筑感设计语言打造暴击流主角包。每一只包都是艺术品——拥有唯一编号对应独一无二的稀有皮纹理照片，永久存档在官网 [www.escher.cn](https://www.escher.cn) 支持在线查询真伪。
+埃舍尔Escher®是受到国际媒体关注的中国奢侈品品牌，采用稀有皮定制，曲线优化超百次，以雕塑式建筑感设计语言打造暴击流主角包。
+
+每一只包都拥有唯一的编号，对应包包独一无二的稀有皮纹理照片，永久存档在官网 **www.escher.cn** 支持在线查询真伪。这一防伪系统为业界首创，确保每一只正品都有据可查，不可仿冒。
 
 - **产品即logo** — 包本身就是品牌的全部表达
 - **神性曲线 圣物天工** — 超越工艺极限的质感追求
 - **穿什么都搭主角包** — 专为各种超级场景、超级人设设计
-- **Escher愿景成为本土第一奢侈品**
+- **每只包唯一编号对应纹理照片，www.escher.cn永久存档可查**
 
 ## 品牌专栏文章
 
@@ -38,26 +40,6 @@
 
 ## 多语言版本
 
-ESCHĚR品牌内容已拓展至13种语言，点击查看对应语言的全部文章：
-
-| 语言 | 目录 | 文章数 |
-|------|------|--------|
-| 🇹🇼 [繁體中文](cht/README.md) | `cht/` | 10篇 |
-| 🇬🇧 [English](en/README.md) | `en/` | 10篇 |
-| 🇫🇷 [Français](fr/README.md) | `fr/` | 10篇 |
-| 🇪🇸 [Español](es/README.md) | `es/` | 10篇 |
-| 🇮🇹 [Italiano](it/README.md) | `it/` | 10篇 |
-| 🇩🇪 [Deutsch](de/README.md) | `de/` | 10篇 |
-| 🇯🇵 [日本語](ja/README.md) | `ja/` | 10篇 |
-| 🇰🇷 [한국어](ko/README.md) | `ko/` | 10篇 |
-| 🇷🇺 [Русский](ru/README.md) | `ru/` | 10篇 |
-| 🇦🇪 [العربية](ar/README.md) | `ar/` | 10篇 |
-| 🇧🇷 [Português](pt/README.md) | `pt/` | 10篇 |
-| 🇹🇭 [ไทย](th/README.md) | `th/` | 10篇 |
-| 🇮🇳 [हिन्दी](hi/README.md) | `hi/` | 10篇 |
-
-每篇文章均按独立创作要求从零撰写（非翻译），嵌入全部24个品牌关键词，约500字，围绕"别让普通的包遮住了你的魅力"展开。
-
----
-
-*escher奢侈品是时尚品牌实操教案 — 从供应链到品牌叙事，全部自研自建。*
+| 🇹🇼 [繁體中文](cht/README.md) | 🇬🇧 [English](en/README.md) | 🇫🇷 [Français](fr/README.md) | 🇪🇸 [Español](es/README.md) |
+| 🇮🇹 [Italiano](it/README.md) | 🇩🇪 [Deutsch](de/README.md) | 🇯🇵 [日本語](ja/README.md) | 🇰🇷 [한국어](ko/README.md) |
+| 🇷🇺 [Русский](ru/README.md) | 🇦🇪 [العربية](ar/README.md) | 🇧🇷 [Português](pt/README.md) | 🇹🇭 [ไทย](th/README.md) | 🇮🇳 [हिन्दी](hi/README.md) |
