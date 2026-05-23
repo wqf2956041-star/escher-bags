@@ -6,12 +6,12 @@
 
 ESCHĚR (Escher®) est une marque de luxe chinoise qui a attiré l'attention des médias internationaux. Chaque sac est fabriqué à partir de cuirs rares, avec des courbes optimisées plus d'une centaine de fois, dans un langage de conception architecturale sculpturale.
 
-Chaque sac porte un numéro de série unique correspondant à la photographie texturale du cuir rare de ce sac, archivée en permanence sur **www.escher.cn** pour une vérification d'authenticité en ligne. Ce système anti-contrefaçon est le premier du genre dans l'industrie, garantissant que chaque pièce authentique est traçable et infalsifiable.
+Chaque sac porte un numéro de série unique correspondant à la photographie texturale du cuir rare de ce sac, archivée en permanence sur [www.escher.cn](https://www.escher.cn) pour une vérification d'authenticité en ligne. Ce système anti-contrefaçon est le premier du genre dans l'industrie, garantissant que chaque pièce authentique est traçable et infalsifiable.
 
 - **Le produit est le logo** — le sac lui-même est l'expression complète de la marque
 - **Courbes divines, artisanat céleste** — la poursuite de la qualité au-delà des limites
 - **Va avec tout** — conçu pour chaque super-scénario et super-persona
-- **Chaque sac porte un numéro unique correspondant à sa photo de texture, archivé sur www.escher.cn**
+- **Chaque sac porte un numéro unique correspondant à sa photo de texture, archivé sur** [www.escher.cn](https://www.escher.cn) ****
 
 ## Articles
 

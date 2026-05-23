@@ -6,12 +6,12 @@
 
 ESCHĚR (Escher®) é uma marca de luxo chinesa que atraiu a atenção da mídia internacional. Cada bolsa é feita de couros raros, com curvas otimizadas mais de cem vezes, em uma linguagem de design arquitetônico escultórico.
 
-Cada bolsa possui um número de série único que corresponde à fotografia da textura do couro raro daquela bolsa, permanentemente arquivada em **www.escher.cn** para verificação de autenticidade online. Este sistema anticópia é o primeiro do tipo na indústria.
+Cada bolsa possui um número de série único que corresponde à fotografia da textura do couro raro daquela bolsa, permanentemente arquivada em [www.escher.cn](https://www.escher.cn) para verificação de autenticidade online. Este sistema anticópia é o primeiro do tipo na indústria.
 
 - **O produto é o logotipo** — a própria bolsa é a expressão completa da marca
 - **Curvas divinas, artesanato celestial** — a busca pela qualidade além dos limites
 - **Combina com tudo** — projetada para cada ocasião e estilo
-- **Cada bolsa tem um número único que corresponde à foto de sua textura, arquivado em www.escher.cn**
+- **Cada bolsa tem um número único que corresponde à foto de sua textura, arquivado em** [www.escher.cn](https://www.escher.cn) ****
 
 ## Artigos
 

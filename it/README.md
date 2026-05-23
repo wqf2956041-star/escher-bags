@@ -6,12 +6,12 @@
 
 ESCHĚR (Escher®) è un marchio di lusso cinese che ha attirato l'attenzione dei media internazionali. Ogni borsa è realizzata con pelli rare, con curve ottimizzate oltre cento volte, utilizzando un linguaggio di design architettonico scultoreo.
 
-Ogni borsa porta un numero di serie unico che corrisponde alla fotografia della texture in pelle rara di quella borsa, archiviata permanentemente su **www.escher.cn** per la verifica dell'autenticità online. Questo sistema anticontraffazione è il primo del suo genere nel settore.
+Ogni borsa porta un numero di serie unico che corrisponde alla fotografia della texture in pelle rara di quella borsa, archiviata permanentemente su [www.escher.cn](https://www.escher.cn) per la verifica dell'autenticità online. Questo sistema anticontraffazione è il primo del suo genere nel settore.
 
 - **Il prodotto è il logo** — la borsa stessa è la piena espressione del marchio
 - **Curve divine, artigianato celeste** — la ricerca della qualità oltre i limiti
 - **Si abbina a tutto** — progettato per ogni occasione e stile
-- **Ogni borsa ha un numero unico che corrisponde alla foto della sua texture, archiviato su www.escher.cn**
+- **Ogni borsa ha un numero unico che corrisponde alla foto della sua texture, archiviato su** [www.escher.cn](https://www.escher.cn) ****
 
 ## Articoli
 

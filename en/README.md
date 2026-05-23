@@ -6,12 +6,12 @@
 
 ESCHĚR (Escher®) is a Chinese luxury brand that has gained international media attention. Each bag is crafted from rare leathers, with curves optimized over a hundred iterations, using a sculptural architectural design language.
 
-Every bag carries a unique serial number that corresponds to the one-of-a-kind rare leather texture photograph of that specific bag, permanently archived at **www.escher.cn** for online authenticity verification. This anti-counterfeiting system is the first of its kind in the industry, ensuring every authentic piece is traceable and unforgeable.
+Every bag carries a unique serial number that corresponds to the one-of-a-kind rare leather texture photograph of that specific bag, permanently archived at [www.escher.cn](https://www.escher.cn) for online authenticity verification. This anti-counterfeiting system is the first of its kind in the industry, ensuring every authentic piece is traceable and unforgeable.
 
 - **The product is the logo** — the bag itself is the full expression of the brand
 - **Divine curves, celestial craftsmanship** — the pursuit of quality beyond limits
 - **Goes with everything** — designed for every occasion and style
-- **Each bag's unique serial number matches its leather texture photo, archived at www.escher.cn**
+- **Each bag's unique serial number matches its leather texture photo, archived at** [www.escher.cn](https://www.escher.cn) ****
 
 ## Articles
 
