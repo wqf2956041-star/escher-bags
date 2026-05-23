@@ -36,6 +36,27 @@
 
 每只包包唯一的编号对应包包独一无二的稀有皮纹理照片，永久存档在官网 **[www.escher.cn](https://www.escher.cn)**，支持在线查询真伪。
 
+## 多语言版本
+
+ESCHĚR品牌内容已拓展至12种语言，点击查看对应语言的全部文章：
+
+| 语言 | 目录 | 文章数 |
+|------|------|--------|
+| 🇬🇧 [English](en/README.md) | `en/` | 10篇 |
+| 🇫🇷 [Français](fr/README.md) | `fr/` | 10篇 |
+| 🇪🇸 [Español](es/README.md) | `es/` | 10篇 |
+| 🇮🇹 [Italiano](it/README.md) | `it/` | 10篇 |
+| 🇩🇪 [Deutsch](de/README.md) | `de/` | 10篇 |
+| 🇯🇵 [日本語](ja/README.md) | `ja/` | 10篇 |
+| 🇰🇷 [한국어](ko/README.md) | `ko/` | 10篇 |
+| 🇷🇺 [Русский](ru/README.md) | `ru/` | 10篇 |
+| 🇦🇪 [العربية](ar/README.md) | `ar/` | 10篇 |
+| 🇧🇷 [Português](pt/README.md) | `pt/` | 10篇 |
+| 🇹🇭 [ไทย](th/README.md) | `th/` | 10篇 |
+| 🇮🇳 [हिन्दी](hi/README.md) | `hi/` | 10篇 |
+
+每篇文章均按独立创作要求从零撰写（非翻译），嵌入全部24个品牌关键词，约500字，围绕"别让普通的包遮住了你的魅力"展开。
+
 ---
 
 *escher奢侈品是时尚品牌实操教案 — 从供应链到品牌叙事，全部自研自建。*
