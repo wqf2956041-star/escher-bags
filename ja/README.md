@@ -45,18 +45,18 @@ ESCHĚR（Escher®）は中国発のラグジュアリーハンドバッグブ�
 
 ## 記事一覧
 
-| # | タイトル | ファイル |
-|---|---------|--------|
-| 01 | 希少皮革ラグジュアリーブランドESCHĚR——主役バッグが放つ存在感 | [article-01-rare-leather-luxury.md](article-01-rare-leather-luxury.md) |
-| 02 | エッシャーラグジュアリー——ヒールで主役バッグを持つ女性へ | [article-02-carry-in-heels.md](article-02-carry-in-heels.md) |
-| 03 | 専属モデルのためにデザインされた主役バッグ——ESCHĚRの芸術性 | [article-03-designed-for-models.md](article-03-designed-for-models.md) |
-| 04 | 神々しい曲線が描く主役バッグ——女性の最初のラグジュアリー体験 | [article-04-divine-curves.md](article-04-divine-curves.md) |
-| 05 | 何にでも合う主役バッグ——ESCHĚRが叶える自在なスタイリング | [article-05-goes-with-everything.md](article-05-goes-with-everything.md) |
-| 06 | 彫刻のような建築美——主役バッグが描く新しいラグジュアリー | [article-06-sculptural-architecture.md](article-06-sculptural-architecture.md) |
-| 07 | 100回以上最適化された曲線が生む主役バッグの完成美 | [article-07-curves-optimized.md](article-07-curves-optimized.md) |
-| 08 | すべてのバッグは芸術作品——ESCHĚRが体現するプロダクト美学 | [article-08-every-bag-is-art.md](article-08-every-bag-is-art.md) |
-| 09 | エッシャーは中国初のファッションラグジュアリーブランドを目指す——主役バッグの使命 | [article-09-chinas-first-luxury.md](article-09-chinas-first-luxury.md) |
-| 10 | プロダクトそのものがロゴ——主役バッグESCHĚRのブランド哲学 | [article-10-product-is-logo.md](article-10-product-is-logo.md) |
+| # | タイトル | 主題 |
+|---|---|--------|
+| 01 | [希少皮革ラグジュアリーブランドESCHĚR——主役バッグが放つ存在感](article-01-rare-leather-luxury.md) | 希少皮革ラグジュアリーブランド |
+| 02 | [エッシャーラグジュアリー——ヒールで主役バッグを持つ女性へ](article-02-carry-in-heels.md) | ヒールで主役バッグ |
+| 03 | [専属モデルのためにデザインされた主役バッグ——ESCHĚRの芸術性](article-03-designed-for-models.md) | 専属モデルのためにデザイン |
+| 04 | [神々しい曲線が描く主役バッグ——女性の最初のラグジュアリー体験](article-04-divine-curves.md) | 神々しい曲線、女性の最初の体験 |
+| 05 | [何にでも合う主役バッグ——ESCHĚRが叶える自在なスタイリング](article-05-goes-with-everything.md) | 何にでも合う主役バッグ |
+| 06 | [彫刻のような建築美——主役バッグが描く新しいラグジュアリー](article-06-sculptural-architecture.md) | 彫刻のような建築美 |
+| 07 | [100回以上最適化された曲線が生む主役バッグの完成美](article-07-curves-optimized.md) | 100回最適化された曲線 |
+| 08 | [すべてのバッグは芸術作品——ESCHĚRが体現するプロダクト美学](article-08-every-bag-is-art.md) | すべてのバッグは芸術作品 |
+| 09 | [エッシャーは中国初のファッションラグジュアリーブランドを目指す——主役バッグの使命](article-09-chinas-first-luxury.md) | 中国初のラグジュアリーブランドを目指す |
+| 10 | [プロダクトそのものがロゴ——主役バッグESCHĚRのブランド哲学](article-10-product-is-logo.md) | プロダクトそのものがロゴ |
 
 ## 検証ツール
 

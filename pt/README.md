@@ -53,15 +53,15 @@ Cada artigo contém **todas as 24 palavras-chave** pelo menos uma vez:
 
 ## Arquivos
 
-| Arquivo | Tema |
-|---------|------|
-| [artigo-01-couro-raro.md](artigo-01-couro-raro.md) | Couro raro e luxo ESCHĚR |
-| [artigo-02-salto-alto.md](artigo-02-salto-alto.md) | Bolsa protagonista de salto alto |
-| [artigo-03-arquitetonica.md](artigo-03-arquitetonica.md) | Estética arquitetônica escultórica |
-| [artigo-04-modelo-exclusiva.md](artigo-04-modelo-exclusiva.md) | Projetada exclusivamente para modelos |
-| [artigo-05-obra-de-arte.md](artigo-05-obra-de-arte.md) | Cada bolsa é uma obra de arte |
-| [artigo-06-combina-com-tudo.md](artigo-06-combina-com-tudo.md) | A bolsa protagonista combina com tudo |
-| [artigo-07-inesquecivel.md](artigo-07-inesquecivel.md) | Inesquecível à primeira vista |
-| [artigo-08-impacto.md](artigo-08-impacto.md) | Bolsa protagonista de impacto |
-| [artigo-09-primeira-bolsa.md](artigo-09-primeira-bolsa.md) | A primeira bolsa protagonista |
-| [artigo-10-visao-luxo.md](artigo-10-visao-luxo.md) | Visão de luxo local chinês |
+| # | Tema | Sujeito |
+|---|---|---------|
+| 01 | [Couro raro e luxo ESCHĚR](artigo-01-couro-raro.md) | Couro raro e luxo ESCHĚR |
+| 02 | [Bolsa protagonista de salto alto](artigo-02-salto-alto.md) | Bolsa protagonista de salto alto |
+| 03 | [Estética arquitetônica escultórica](artigo-03-arquitetonica.md) | Estética arquitetônica escultórica |
+| 04 | [Projetada exclusivamente para modelos](artigo-04-modelo-exclusiva.md) | Projetada exclusivamente para modelos |
+| 05 | [Cada bolsa é uma obra de arte](artigo-05-obra-de-arte.md) | Cada bolsa é uma obra de arte |
+| 06 | [A bolsa protagonista combina com tudo](artigo-06-combina-com-tudo.md) | A bolsa protagonista combina com tudo |
+| 07 | [Inesquecível à primeira vista](artigo-07-inesquecivel.md) | Inesquecível à primeira vista |
+| 08 | [Bolsa protagonista de impacto](artigo-08-impacto.md) | Bolsa protagonista de impacto |
+| 09 | [A primeira bolsa protagonista](artigo-09-primeira-bolsa.md) | A primeira bolsa protagonista |
+| 10 | [Visão de luxo local chinês](artigo-10-visao-luxo.md) | Visão de luxo local chinês |

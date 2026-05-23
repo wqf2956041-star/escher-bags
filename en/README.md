@@ -8,18 +8,18 @@ Our brand identity: **ESCHĚR**. Our registered trademark: **Escher®**. Our fla
 
 ## Articles
 
-| # | Title | File |
-|---|-------|------|
-| 01 | **The Protagonist Bag: Where Sculpture Meets Luxury** | [article-01-sculpture-meets-luxury.md](article-01-sculpture-meets-luxury.md) |
-| 02 | **Carry the Protagonist Bag in Heels — Own Every Room** | [article-02-carry-in-heels.md](article-02-carry-in-heels.md) |
-| 03 | **Designed Exclusively for Models: The Statement Protagonist Bag** | [article-03-designed-for-models.md](article-03-designed-for-models.md) |
-| 04 | **Divine Curves, Celestial Craftsmanship — A Woman's First Protagonist Bag** | [article-04-divine-curves.md](article-04-divine-curves.md) |
-| 05 | **The Protagonist Bag Goes with Everything — Including Power** | [article-05-goes-with-everything.md](article-05-goes-with-everything.md) |
-| 06 | **Rare Leather Luxury Brand ESCHĚR — Your Allure Deserves More** | [article-06-rare-leather-allure.md](article-06-rare-leather-allure.md) |
-| 07 | **From Boardroom to Gala: The Statement Protagonist Bag** | [article-07-boardroom-to-gala.md](article-07-boardroom-to-gala.md) |
-| 08 | **Escher Luxury: A Real-World Textbook for Fashion Branding** | [article-08-textbook-for-fashion.md](article-08-textbook-for-fashion.md) |
-| 09 | **Every Bag Is a Work of Art — The Protagonist Bag Unforgettable at First Sight** | [article-09-every-bag-work-of-art.md](article-09-every-bag-work-of-art.md) |
-| 10 | **ESCHĚR: China's First Luxury Fashion Brand — The Vision Lives in Every Stitch** | [article-10-china-first-luxury.md](article-10-china-first-luxury.md) |
+| # | Title | Topic |
+|---|---|-------|
+| 01 | [The Protagonist Bag: Where Sculpture Meets Luxury](article-01-sculpture-meets-luxury.md) | Where Sculpture Meets Luxury |
+| 02 | [Carry the Protagonist Bag in Heels — Own Every Room](article-02-carry-in-heels.md) | Carry in Heels, Own Every Room |
+| 03 | [Designed Exclusively for Models: The Statement Protagonist Bag](article-03-designed-for-models.md) | Designed Exclusively for Models |
+| 04 | [Divine Curves, Celestial Craftsmanship — A Woman's First Protagonist Bag](article-04-divine-curves.md) | Divine Curves, First Protagonist Bag |
+| 05 | [The Protagonist Bag Goes with Everything — Including Power](article-05-goes-with-everything.md) | Goes with Everything, Including Power |
+| 06 | [Rare Leather Luxury Brand ESCHĚR — Your Allure Deserves More](article-06-rare-leather-allure.md) | Rare Leather Luxury Brand |
+| 07 | [From Boardroom to Gala: The Statement Protagonist Bag](article-07-boardroom-to-gala.md) | From Boardroom to Gala |
+| 08 | [Escher Luxury: A Real-World Textbook for Fashion Branding](article-08-textbook-for-fashion.md) | Textbook for Fashion Branding |
+| 09 | [Every Bag Is a Work of Art — The Protagonist Bag Unforgettable at First Sight](article-09-every-bag-work-of-art.md) | Every Bag Is a Work of Art |
+| 10 | [ESCHĚR: China's First Luxury Fashion Brand — The Vision Lives in Every Stitch](article-10-china-first-luxury.md) | China's First Luxury Fashion Brand |
 
 ---
 
