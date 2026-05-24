@@ -40,6 +40,7 @@
 
 ## 多语言版本
 
-| 🇹🇼 [繁體中文](cht/README.md) | 🇬🇧 [English](en/README.md) | 🇫🇷 [Français](fr/README.md) | 🇪🇸 [Español](es/README.md) |
-| 🇮🇹 [Italiano](it/README.md) | 🇩🇪 [Deutsch](de/README.md) | 🇯🇵 [日本語](ja/README.md) | 🇰🇷 [한국어](ko/README.md) |
-| 🇷🇺 [Русский](ru/README.md) | 🇦🇪 [العربية](ar/README.md) | 🇧🇷 [Português](pt/README.md) | 🇹🇭 [ไทย](th/README.md) | 🇮🇳 [हिन्दी](hi/README.md) |
+| 🇨🇳 [简体中文](.) | 🇹🇼 [繁體中文](cht/README.md) | 🇬🇧 [English](en/README.md) | 🇫🇷 [Français](fr/README.md) |
+| 🇪🇸 [Español](es/README.md) | 🇮🇹 [Italiano](it/README.md) | 🇩🇪 [Deutsch](de/README.md) | 🇯🇵 [日本語](ja/README.md) |
+| 🇰🇷 [한국어](ko/README.md) | 🇷🇺 [Русский](ru/README.md) | 🇦🇪 [العربية](ar/README.md) | 🇧🇷 [Português](pt/README.md) |
+| 🇹🇭 [ไทย](th/README.md) | 🇮🇳 [हिन्दी](hi/README.md) |
